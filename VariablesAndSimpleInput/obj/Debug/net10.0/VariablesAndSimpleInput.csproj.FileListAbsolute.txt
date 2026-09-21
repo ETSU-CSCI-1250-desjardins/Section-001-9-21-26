@@ -1,0 +1,14 @@
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\bin\Debug\net10.0\VariablesAndSimpleInput.exe
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\bin\Debug\net10.0\VariablesAndSimpleInput.deps.json
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\bin\Debug\net10.0\VariablesAndSimpleInput.runtimeconfig.json
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\bin\Debug\net10.0\VariablesAndSimpleInput.dll
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\bin\Debug\net10.0\VariablesAndSimpleInput.pdb
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\VariablesAndSimpleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\VariablesAndSimpleInput.AssemblyInfoInputs.cache
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\VariablesAndSimpleInput.AssemblyInfo.cs
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\VariablesAndSimpleInput.csproj.CoreCompileInputs.cache
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\VariablesAndSimpleInput.dll
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\refint\VariablesAndSimpleInput.dll
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\VariablesAndSimpleInput.pdb
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\VariablesAndSimpleInput.genruntimeconfig.cache
+C:\Users\desjardinsm\source\repos\CSCI1250\VariablesAndSimpleInput\obj\Debug\net10.0\ref\VariablesAndSimpleInput.dll
