@@ -49,8 +49,7 @@ string[] names = name.Split(',');
 //Random r = new Random();
 
 //Example Running Program
-int numberOfGrades = MethodCall();
-
+//
 System.Console.Write("How many grades do you have to average? ");
 int numberOfGradesToAverage = Convert.ToInt32(Console.ReadLine());
 int[] grades = new int[numberOfGradesToAverage];
